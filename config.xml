@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="br.com.sistemaleiloes" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-   <name>Auto Zap Repasses</name>
+<widget id="br.com.autozaprepasse" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+   <name>Auto Zap Repasse</name>
     <description>
          Auto Zap - Repasses de veículos
     </description>
-    <author email="ivancordeiro@yahoo.com.br" href="http://ivanprogramador.com.br">
-        Ivan Programador
+    <author email="ivancordeiro@yahoo.com.br" href="http://autozaprepasse.com.br">
+        Auto Zap
     </author>
     <content src="index.html" />
 
